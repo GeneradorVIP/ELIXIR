@@ -127,6 +127,11 @@ const img = ['admin', 'ban', 'cowner', 'Faketumber', 'imagen', 'imgregla', 'M18'
 const imgramdon = img[Math.floor(Math.random() * img.length)]
 //CREADOR
 const yo = `(̅_̅_̅(̲̲̲̲̲̅̅̅̅̅̅(̅_̅_̲̅✦҈͜͡➳👻𝕲𝔥𝔬𝔰𝔱•✓☆ۣۜۜ͜͡🌹 _̅_̅_̅()ڪے`
+const Githu = 'https://github.com/GeneradorVIP'
+const Youtube = 'https://www.youtube.com/c/thechout'
+const WhatsApp = '18299897014'
+const instagram = 'https://www.instagram.com/the_choute_/'
+const WGrupo = 'https://chat.whatsapp.com/H6n4BdMISuyC12zUEVL08n'
 
 //══════════════════ FUNCION DE REGISTRO ════════════════════════════════════\\
 const getRegisteredRandomId = () => {
