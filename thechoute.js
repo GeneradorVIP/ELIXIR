@@ -1,7 +1,4 @@
-   // - - - - 𝕭𝖆𝖇𝖞𝕭𝖊𝖈𝖍𝖔𝖘𝖔 - - - -\\
-  // Si modificas recuerda dejar  \\
- //     Los Creditos               \\
-//////////// 𝕿𝖍𝖊 𝕮𝖍𝖔𝖚𝖙𝖊  \\\\\\\\\\\\\
+(̅_̅_̅(̲̲̲̲̲̅̅̅̅̅̅(̅_̅_̲̅✦҈͜͡➳👻𝕲𝔥𝔬𝔰𝔱•✓☆ۣۜۜ͜͡🌹 _̅_̅_̅()ڪے
 const { 
   WAConnection,
   MessageType,
@@ -129,12 +126,7 @@ const sleep = async (ms) => {
 const img = ['admin', 'ban', 'cowner', 'Faketumber', 'imagen', 'imgregla', 'M18', 'multimedia', 'TikTok', 'uwu']
 const imgramdon = img[Math.floor(Math.random() * img.length)]
 //CREADOR
-const yo = `𝕿𝖍ٌ𝖊𝕮𝖍𝖔𝖚𝖙𝖊`
-const Githu = 'https://github.com/thechoute'
-const Youtube = 'https://www.youtube.com/c/thechout'
-const WhatsApp = '18299897014'
-const instagram = 'https://www.instagram.com/the_choute_/'
-const WGrupo = 'https://chat.whatsapp.com/H6n4BdMISuyC12zUEVL08n'
+const yo = `(̅_̅_̅(̲̲̲̲̲̅̅̅̅̅̅(̅_̅_̲̅✦҈͜͡➳👻𝕲𝔥𝔬𝔰𝔱•✓☆ۣۜۜ͜͡🌹 _̅_̅_̅()ڪے`
 
 //══════════════════ FUNCION DE REGISTRO ════════════════════════════════════\\
 const getRegisteredRandomId = () => {
